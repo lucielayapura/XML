@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<arboles>
+		<arbol latin="Acer monspessulanum">
+			<nombre_comun>Acre de Montpellier, Acre menor</nombre_comun>
+			<vegetacion>Caducifodulio</vegetacion>
+			<altura unidad="metros">De 6 a 10 </altura>
+			<forma_estructura>Copa esférica. Tronco principal recto con difurcaciones. Ramaje colgante.</forma_estructura>
+			<color estacion="primavera">Haz verde brillante, envés verde blanquecino.</color>
+			<resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+		</arbol>
+		<arbol latin="Olea europea">
+			<nombre_comun>Olivo</nombre_comun>
+			<vegetacion>perenne</vegetacion>
+			<altura unidad="metros">De 8 a 15</altura>
+			<forma_estructura>Copa irregular. Tronco principal irregular con difurcaciones.</forma_estructura>
+			<color estacion="primavera">Haz verde brillante, envés verde blanquecino.</color>
+			<resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+		</arbol>
+		<arbol latin="Ramaje tortuoso">			
+			<color estacion="primavera">Haz verde oscuro, envés verde plateado.</color>
+			<resistencia_heladas>Heladas medias (hasta -10ºC)</resistencia_heladas>
+		</arbol>
+		<arbol latin="Platanus  Orientalis">
+			<nombre_comun>Plátano</nombre_comun>
+			<vegetacion>Caducifolio</vegetacion>
+			<altura unidad="metros">De 20 a 25</altura>
+			<forma_estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido.</forma_estructura>
+			<color estacion="primavera">Haz verde medio, envés verde claro.</color>
+			<color estacion="otoño">Ocre</color>
+			<resistencia_heladas>Heladas fuertes (hasta -20ºC)</resistencia_heladas>
+		</arbol>
+		<arbol latin="Quercus ilex">
+			<nombre_comun>Encina</nombre_comun>
+			<vegetacion>Perenne</vegetacion>
+			<altura unidad="metros">Entorno a 25</altura>
+			<forma_estructura>Copa esférica o eíptica irregular. Tronco principal recto. Ramaje tortuoso.</forma_estructura>
+			<color estacion="primavera">Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado.</color>
+			<resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+		</arbol>	
+	</arboles>

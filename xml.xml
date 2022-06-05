@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+	<pedido>
+		<n_cliente>Juan Delgado</n_cliente>
+		<domicilio>Calle barco 23, 1C</domicilio>
+		<telefono tipo="fijo">955555555</telefono>
+		<telefono tipo="movil">666666666</telefono>
+		<fecha>25/05/2022</fecha>
+		<articulos>
+			<articulo>Bicicleta</articulo>
+			<articulo>Casco</articulo>
+			<articulo>Luz</articulo>
+		</articulos>
+	</pedido>
